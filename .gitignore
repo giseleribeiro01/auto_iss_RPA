@@ -1,0 +1,16 @@
+# Arquivos PDF com relatórios
+*.pdf
+
+# Planilhas geradas pelo programa
+*.xlsx
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Configurações locais
+.env
